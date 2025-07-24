@@ -76,13 +76,13 @@ docker-compose -f docker-compose.kafka.yml exec broker kafka-console-consumer --
 ## **Screenshots**
 
 ### **System Running**
-![System Output](screenshots/system-running.png)
+![System Output](screenshots/system_running.png)
 
 ### **Fraud Detection in Action**
-![Fraud Detection](screenshots/fraud-detection.png)
+![Fraud Detection](screenshots/fraudulent_transactions.png)
 
 ### **Kafka Topics with Messages**
-![Kafka Topics](screenshots/kafka-topics.png)
+![Kafka Topics](screenshots/kafka_topic_list.png)
 
 ## **Cleanup**
 ```bash
